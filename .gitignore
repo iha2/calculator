@@ -1,0 +1,5 @@
+.shadow-cljs
+.vscode
+.nrepl-port
+node_modules
+public/js
